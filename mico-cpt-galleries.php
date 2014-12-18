@@ -44,7 +44,7 @@ class MICO_CPT_Galleries {
 	 * @since    1.0.0
 	 * @var      string
 	 */
-	protected $plugin_slug = 'mico-cpt-Galleries';
+	protected $plugin_slug = 'mico-cpt-galleries';
 
 	/**
 	 * Instance of this class.
@@ -100,7 +100,6 @@ class MICO_CPT_Galleries {
 	
 		load_textdomain( $domain, trailingslashit( WP_LANG_DIR ) . $domain . '/' . $domain . '-' . $locale . '.mo' );
 		load_plugin_textdomain( $domain, false, $fullpath );		
-	
 	}
 
 

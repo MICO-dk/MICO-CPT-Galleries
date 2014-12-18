@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: mico-cpt-galleries\n"
-"POT-Creation-Date: 2014-12-17 18:11+0100\n"
-"PO-Revision-Date: 2014-12-17 18:11+0100\n"
+"POT-Creation-Date: 2014-12-18 16:23+0100\n"
+"PO-Revision-Date: 2014-12-18 16:23+0100\n"
 "Last-Translator: Malthe Milthers <malthe@milthers.dk>\n"
 "Language-Team: \n"
 "Language: en\n"
@@ -17,6 +17,10 @@ msgstr ""
 "esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
+
+#: ../mico-cpt-galleries.php:103
+msgid "Galleries"
+msgstr ""
 
 #: ../mico-cpt-galleries.php:117
 msgctxt "post type general name"
